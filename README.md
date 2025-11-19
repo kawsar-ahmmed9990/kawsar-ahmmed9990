@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="/mnt/data/1a58483b-b3ae-41bc-9ab4-9eb9c236e170.png" alt="Banner Image" />
-</p>
+
+![My Banner](./Screenshot%202025-11-19%20150700.png)
+
 
 <h1 align="center">Hi 👋, I'm Kawsar Ahmmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
